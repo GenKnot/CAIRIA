@@ -29,8 +29,8 @@ export const translations = {
     // About Section
     about: {
       title: 'Our Mission',
-      subtitle: 'Technology Empowers Future Education, Innovation Drives Intelligent Society',
-      description: 'CAIRIA is committed to building a systematic AI and robotics education ecosystem spanning from K-12 to higher education. We focus on five core areas: innovative education, international scientific exchange, global competitions, authoritative certification, and future talent development. Through comprehensive support across learning, competition, research, and industry practice, we provide a complete educational chain for youth and institutions worldwide.',
+      subtitle: 'Empowering Future Education Through Technology and Innovation',
+      description: 'CAIRIA builds a comprehensive AI and robotics education ecosystem from K-12 to higher education. We focus on innovative education, international exchange, global competitions, certification, and talent development—providing complete support for youth and institutions worldwide.',
       mission: 'Our Mission',
       missionTitle: 'Building a Comprehensive AI & Robotics Ecosystem',
       missionText1: 'CAIRIA brings together top scientists, experts, and professor advisors from Canada, the United States, Singapore, and Europe in the fields of AI and robotics, forming a powerful international think tank and technological innovation force. We provide authoritative support for curriculum development, technical research, international certification, and competition evaluation.',
