@@ -369,12 +369,12 @@ export default function Footer() {
                 </span>
               </button>
             </div>
-            <ul className="flex items-center space-x-3 max-w-80 md:space-x-6">
-              <li className="font-medium hover:text-main-black hover:underline common-transition text-paragraph">
+            <ul className="flex items-center space-x-3 md:space-x-6">
+              <li className="font-medium hover:text-main-black hover:underline common-transition text-paragraph whitespace-nowrap">
                 <button onClick={() => {}}>{t('footer.privacyPolicy')}</button>
               </li>
               <li className="font-medium text-paragraph">|</li>
-              <li className="font-medium hover:text-main-black hover:underline common-transition text-paragraph">
+              <li className="font-medium hover:text-main-black hover:underline common-transition text-paragraph whitespace-nowrap">
                 <button onClick={() => {}}>{t('footer.termsConditions')}</button>
               </li>
             </ul>

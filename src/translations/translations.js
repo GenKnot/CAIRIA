@@ -19,7 +19,7 @@ export const translations = {
     hero: {
       badge: 'CAIRIA',
       title: 'Shaping the Future of AI & Robotics',
-      subtitle: 'The AI & Robotics Innovation Association of Canada (ARIC) is dedicated to building a comprehensive education ecosystem, fostering global scientific exchange, and cultivating innovative talent with international perspectives',
+      subtitle: 'The Canada AI & Robotics Innovation Association (CAIRIA) is dedicated to building a comprehensive education ecosystem, fostering global scientific exchange, and cultivating innovative talent with international perspectives',
       btnCertification: 'Explore Certification',
       btnLearnMore: 'Learn More',
       nonprofit: 'Non-Profit Organization',
@@ -257,7 +257,7 @@ export const translations = {
     hero: {
       badge: 'CAIRIA',
       title: "Façonner l'avenir de l'IA et de la robotique",
-      subtitle: "L'Association d'innovation en IA et robotique du Canada (ARIC) se consacre à la construction d'un écosystème éducatif complet, favorisant les échanges scientifiques mondiaux et cultivant des talents innovants avec des perspectives internationales",
+      subtitle: "L'Association canadienne de l'innovation en IA et robotique (CAIRIA) se consacre à la construction d'un écosystème éducatif complet, favorisant les échanges scientifiques mondiaux et cultivant des talents innovants avec des perspectives internationales",
       btnCertification: 'Explorer la certification',
       btnLearnMore: 'En savoir plus',
       nonprofit: 'Organisation à but non lucratif',
