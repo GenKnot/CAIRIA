@@ -122,9 +122,9 @@ export default function AboutPage() {
               </p>
             </div>
             <div className="lg:col-span-6">
-              <div className="relative flex justify-center overflow-hidden rounded-[20px]">
+              <div className="relative flex justify-center items-center overflow-hidden rounded-[20px] h-[600px]">
                 <video
-                  src="/228243_small.mp4"
+                  src="/310148_small.mp4"
                   autoPlay
                   loop
                   muted
@@ -137,11 +137,14 @@ export default function AboutPage() {
 
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-20 items-center">
             <div className="lg:col-span-6 order-2 lg:order-1">
-              <div className="relative flex justify-center">
-                <img
-                  src="/assets/images/home-seven/business.png"
-                  alt="Vision"
-                  className="relative z-10"
+              <div className="relative flex justify-center items-center overflow-hidden rounded-[20px] h-[600px]">
+                <video
+                  src="/3.mp4"
+                  autoPlay
+                  loop
+                  muted
+                  playsInline
+                  className="w-full h-full object-cover"
                 />
               </div>
             </div>
