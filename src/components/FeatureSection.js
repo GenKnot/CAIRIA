@@ -12,16 +12,21 @@ export default function FeatureSection() {
       <div className="w-full mx-auto theme-container">
         <div className="grid grid-cols-3 gap-3 md:grid-cols-6 gap-y-10">
           <div className="relative col-span-3 flex justify-center items-end xl:px-[62px]">
-            <img
-              src="/assets/images/home-nine/features-bg.svg"
-              alt=""
-              className="absolute z-0 cta_bg_anim"
-            />
-            <img
+            <div className="relative w-full min-h-[400px] md:min-h-[500px] lg:min-h-[600px] max-h-[700px] overflow-hidden rounded-[20px]">
+              <video
+                src="/310148_small.mp4"
+                autoPlay
+                loop
+                muted
+                playsInline
+                className="absolute top-0 left-0 w-full h-full object-cover cta_bg_anim"
+              />
+            </div>
+            {/* <img
               src="/assets/images/home-nine/features-img.png"
               alt=""
               className="relative z-10 moving-h2-hero-main-img rounded-t-[20px]"
-            />
+            /> */}
           </div>
           <div className="col-span-3 xl:px-[62px]">
             <div className="max-w-[476px]">

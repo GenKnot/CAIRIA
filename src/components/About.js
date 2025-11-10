@@ -20,10 +20,13 @@ export default function About() {
             <div className="grid grid-cols-7 mx-auto theme-container lg:grid-cols-12">
               <div className="col-span-6 md:col-span-7">
                 <div className="relative w-fit">
-                  <img
-                    src="/assets/images/home-seven/about.png"
-                    alt=""
-                    className="rounded-[20px]"
+                  <video
+                    src="/228243_small.mp4"
+                    autoPlay
+                    loop
+                    muted
+                    playsInline
+                    className="rounded-[20px] w-[630px] h-[450px] object-cover"
                   />
                   <div className="w-[100px] aspect-square rounded-[10px] bg-it-blue flex justify-center items-center absolute -top-[50px] -right-[50px]">
                     <svg

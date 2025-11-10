@@ -99,10 +99,13 @@ export default function FeatureShowcase() {
         </div>
         <div className="col-span-6 mt-5 md:mt-0">
           <div className="relative flex justify-end w-full">
-            <img
-              src="/assets/images/home-seven/business.png"
-              alt=""
-              className="max-w-full"
+            <video
+              src="/3.mp4"
+              autoPlay
+              loop
+              muted
+              playsInline
+              className="max-w-full rounded-[20px]"
             />
           </div>
         </div>

@@ -122,16 +122,14 @@ export default function AboutPage() {
               </p>
             </div>
             <div className="lg:col-span-6">
-              <div className="relative flex justify-center">
-                <img
-                  src="/assets/images/home-nine/features-bg.svg"
-                  alt=""
-                  className="absolute z-0 cta_bg_anim"
-                />
-                <img
-                  src="/assets/images/home-nine/features-img.png"
-                  alt="Mission"
-                  className="relative z-10 moving-h2-hero-main-img"
+              <div className="relative flex justify-center overflow-hidden rounded-[20px]">
+                <video
+                  src="/228243_small.mp4"
+                  autoPlay
+                  loop
+                  muted
+                  playsInline
+                  className="w-full h-full object-cover"
                 />
               </div>
             </div>
